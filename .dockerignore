@@ -1,0 +1,7 @@
+build
+.idea
+.gradle
+gradle
+.env
+venv
+.pyc
